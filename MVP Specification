@@ -1,0 +1,25 @@
+
+
+MVP – Tennis Game
+Architecture
+
+ 
+Data Model
+ 
+
+Task 5: User Story
+The Tennis Game is a simple 2D sports game where two players compete against each other in a virtual tennis match. Each player controls a paddle, which they can move vertically to hit a ball back and forth over a net. The objective of the game is to prevent the ball from hitting the player's side of the court while trying to score points by making the ball pass the opponent's paddle.
+
+Features:
+
+Two-player gameplay: The game supports two players, allowing them to compete against each other on the same device.
+Paddle movement: Each player can control their paddle using designated keys or buttons to move it up and down.
+Ball physics: The ball moves with realistic physics, bouncing off the walls, paddles, and net.
+Scoring system: The game keeps track of the score for each player, incrementing it when a player fails to return the ball successfully.
+Collision detection: The game detects collisions between the ball and the paddles, triggering appropriate reactions.
+Visual feedback: The game provides visual feedback by displaying the score, paddles, ball, and a playing area on a colorful canvas.
+Responsive design: The game is designed to adapt to different screen sizes and orientations, making it playable on various devices.
+Objective:
+The objective of the Tennis Game is to outscore the opponent by successfully hitting the ball over the net and preventing it from landing on the player's side of the court. Players must use their paddles to hit the ball back and forth, strategizing to outmaneuver the opponent and score points. The game continues until a predetermined score limit is reached, or players decide to end the match.
+Task 6: Mockups
+ 
